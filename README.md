@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hola, mi nombre es Pablo Rodríguez 👋
+
+Soy un joven de 27 años que reside en Madrid.
+Graduado superior en Administración y Sistemas informáticos en RED (ASIR), empezando en el mundo de la programación.
+Actualmente trabajo como Administrador de sistemas y BBDD pero ya estoy empezando a orientarme en el mundo del desarrollo.
+Tengo muchas ganas de aprender y compartir con vosotros mis avances.
 
 <!--
 **PeibolStrike/PeibolStrike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
